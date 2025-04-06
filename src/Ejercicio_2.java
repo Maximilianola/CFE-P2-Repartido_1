@@ -10,7 +10,7 @@ public class Ejercicio_2 {
         System.out.print("Por favor, ingrese el segundo número: ");
         int num2=leer.nextInt();
 
-        System.out.println("");
+        System.out.println();
         System.out.println("El resultado de la SUMA de ambos número es: " + (num1+num2));
     }
 }
