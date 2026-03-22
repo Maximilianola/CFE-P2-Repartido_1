@@ -6,8 +6,9 @@ public class Ejercicio4 {
 
         System.out.print("Ingrese la base: ");
         double base = leer.nextDouble();
-        System.out.println("Ingrese la altura: ");
+        System.out.print("Ingrese la altura: ");
         double altura = leer.nextDouble();
+
         System.out.println();
 
         if (base<0 || altura <0){
