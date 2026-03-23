@@ -4,8 +4,6 @@ public class Ejercicio6 {
     static void main(String[] args) {
         Scanner leer = new Scanner(System.in);
 
-        System.out.println("SIMULADOR DE COMPRAS.\n");
-
         System.out.print("Ingrese el precio del primer producto: ");
         double prod1 = leer.nextDouble();
 
