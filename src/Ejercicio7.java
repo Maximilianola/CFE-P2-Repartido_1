@@ -19,7 +19,7 @@ public class Ejercicio7 {
         System.out.println(
                 "Hola ".concat(Nombre)
                         .concat(", tenes ")
-                        .concat(String.valueOf(Edad))
+                        .concat(String.valueOf(Edad)) // Sino convierto el valor Edad no puedo concatenar
                         .concat(" y vivis en la ciudad de ")
                         .concat(Ciudad)
                         .concat(".")
